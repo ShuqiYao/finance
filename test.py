@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 
 #%%
-basics_data = ts.get_stock_basics()
+basics_data = ts.()
 
 #%%
 basics_data.head()
